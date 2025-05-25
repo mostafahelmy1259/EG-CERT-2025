@@ -1,4 +1,4 @@
-# Hunting the Timestomper: A Digital Forensics Journey
+# TimeStomp EG-CERT 2025 CTF
 
 It was late Friday night when the notification popped up on my screen. A new CTF challenge had just dropped, and with only 109 solves so far, I knew this was my chance to climb up the leaderboard. The challenge, simply titled "TimeStamp," caught my attention immediately.
 
